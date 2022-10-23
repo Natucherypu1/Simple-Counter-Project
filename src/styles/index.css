@@ -6,7 +6,9 @@
     width: 100px;
     padding: auto;
     color: white;
+    border-radius: 15px;
 }
 body{
     background-color: black;
+    
 }
